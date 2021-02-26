@@ -1,5 +1,5 @@
 # Installation
-## Home Assistatn online
+## Home Assistant online
 1. [Online documentation](https://www.home-assistant.io/installation/raspberrypi)
 2. [Onboarding](https://www.home-assistant.io/getting-started/onboarding/)
 3. Acivate Advance Mode
